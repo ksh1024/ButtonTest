@@ -7,4 +7,6 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="btn_red">#FF0000</color><!--rgb,불투명도-->
+    <color name="bg1">#FFFF66</color>
 </resources>
